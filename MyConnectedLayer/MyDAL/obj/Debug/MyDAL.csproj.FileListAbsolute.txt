@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\MyConnectedLayer\MyDAL\bin\Debug\MyDAL.dll
+c:\users\user\documents\visual studio 2017\Projects\MyConnectedLayer\MyDAL\bin\Debug\MyDAL.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyConnectedLayer\MyDAL\obj\Debug\MyDAL.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyConnectedLayer\MyDAL\obj\Debug\MyDAL.dll
+c:\users\user\documents\visual studio 2017\Projects\MyConnectedLayer\MyDAL\obj\Debug\MyDAL.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyConnectedLayer\MyDAL\bin\Debug\MyDAL.xml

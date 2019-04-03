@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2017\Projects\MyConnectedLayer\MyAutoLotCUI\bin\Debug\MyAutoLotCUI.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyConnectedLayer\MyAutoLotCUI\bin\Debug\MyAutoLotCUI.exe
+c:\users\user\documents\visual studio 2017\Projects\MyConnectedLayer\MyAutoLotCUI\bin\Debug\MyAutoLotCUI.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyConnectedLayer\MyAutoLotCUI\bin\Debug\MyDAL.dll
+c:\users\user\documents\visual studio 2017\Projects\MyConnectedLayer\MyAutoLotCUI\bin\Debug\MyDAL.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyConnectedLayer\MyAutoLotCUI\bin\Debug\MyDAL.xml
+c:\users\user\documents\visual studio 2017\Projects\MyConnectedLayer\MyAutoLotCUI\obj\Debug\MyAutoLotCUI.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyConnectedLayer\MyAutoLotCUI\obj\Debug\MyAutoLotCUI.exe
+c:\users\user\documents\visual studio 2017\Projects\MyConnectedLayer\MyAutoLotCUI\obj\Debug\MyAutoLotCUI.pdb

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyDAL</name>
+    </assembly>
+    <members>
+        <member name="T:MyDAL.InventoryDAL">
+            <summary>
+            3 tiers architecture:
+            1. PL (Presentation layer)
+            2. BLL (Business Logic Layer)
+            3. DAL (Data Access Layer)
+            </summary>
+        </member>
+    </members>
+</doc>
