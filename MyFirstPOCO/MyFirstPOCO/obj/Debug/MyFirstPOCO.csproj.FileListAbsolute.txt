@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2017\Projects\MyFirstPOCO\MyFirstPOCO\bin\Debug\MyFirstPOCO.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyFirstPOCO\MyFirstPOCO\bin\Debug\MyFirstPOCO.exe
+c:\users\user\documents\visual studio 2017\Projects\MyFirstPOCO\MyFirstPOCO\bin\Debug\MyFirstPOCO.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyFirstPOCO\MyFirstPOCO\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2017\Projects\MyFirstPOCO\MyFirstPOCO\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2017\Projects\MyFirstPOCO\MyFirstPOCO\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2017\Projects\MyFirstPOCO\MyFirstPOCO\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2017\Projects\MyFirstPOCO\MyFirstPOCO\obj\Debug\MyFirstPOCO.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyFirstPOCO\MyFirstPOCO\obj\Debug\MyFirstPOCO.exe
+c:\users\user\documents\visual studio 2017\Projects\MyFirstPOCO\MyFirstPOCO\obj\Debug\MyFirstPOCO.pdb
