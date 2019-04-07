@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2017\Projects\MyEDMSchool\MyEDMSchool\bin\Debug\MyEDMSchool.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MyEDMSchool\MyEDMSchool\bin\Debug\MyEDMSchool.exe
+c:\users\user\documents\visual studio 2017\Projects\MyEDMSchool\MyEDMSchool\bin\Debug\MyEDMSchool.pdb
+c:\users\user\documents\visual studio 2017\Projects\MyEDMSchool\MyEDMSchool\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2017\Projects\MyEDMSchool\MyEDMSchool\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2017\Projects\MyEDMSchool\MyEDMSchool\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2017\Projects\MyEDMSchool\MyEDMSchool\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2017\Projects\MyEDMSchool\MyEDMSchool\obj\Debug\MyEDMSchool.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MyEDMSchool\MyEDMSchool\obj\Debug\MyEDMSchool.frmMain.resources
+c:\users\user\documents\visual studio 2017\Projects\MyEDMSchool\MyEDMSchool\obj\Debug\MyEDMSchool.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\MyEDMSchool\MyEDMSchool\obj\Debug\MyEDMSchool.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\MyEDMSchool\MyEDMSchool\obj\Debug\MyEDMSchool.exe
+c:\users\user\documents\visual studio 2017\Projects\MyEDMSchool\MyEDMSchool\obj\Debug\MyEDMSchool.pdb
